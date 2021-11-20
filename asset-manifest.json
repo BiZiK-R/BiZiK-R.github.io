@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bddc3b43.chunk.css",
+    "main.js": "/static/js/main.843faa0c.chunk.js",
+    "main.js.map": "/static/js/main.843faa0c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.136a9ae8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.136a9ae8.js.map",
+    "static/js/2.3526fd46.chunk.js": "/static/js/2.3526fd46.chunk.js",
+    "static/js/2.3526fd46.chunk.js.map": "/static/js/2.3526fd46.chunk.js.map",
+    "static/js/3.6a5fdbba.chunk.js": "/static/js/3.6a5fdbba.chunk.js",
+    "static/js/3.6a5fdbba.chunk.js.map": "/static/js/3.6a5fdbba.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bddc3b43.chunk.css.map": "/static/css/main.bddc3b43.chunk.css.map",
+    "static/js/2.3526fd46.chunk.js.LICENSE.txt": "/static/js/2.3526fd46.chunk.js.LICENSE.txt",
+    "static/media/arrowChatHeader.139af588.svg": "/static/media/arrowChatHeader.139af588.svg",
+    "static/media/arrowSelector.6d3f84ad.svg": "/static/media/arrowSelector.6d3f84ad.svg",
+    "static/media/chatMessage.scss": "/static/media/chatMessageBackgraund.e5f9f426.svg",
+    "static/media/inputForm.scss": "/static/media/errorInput.dd5c433f.svg",
+    "static/media/signup.scss": "/static/media/loginBackgraund.adbbce64.svg",
+    "static/media/reset.4a978d34.svg": "/static/media/reset.4a978d34.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.136a9ae8.js",
+    "static/js/2.3526fd46.chunk.js",
+    "static/css/main.bddc3b43.chunk.css",
+    "static/js/main.843faa0c.chunk.js"
+  ]
+}
